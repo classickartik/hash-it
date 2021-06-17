@@ -87,6 +87,7 @@ Major Outcome
 - [ ] Node.js (I have a feeling it will be needed {mentors help}
 - [ ] Improving it overall (UI, optimization, etc.)
 - [ ] Suggestions for new features
+- [ ] Post suggestion using ML
 
 
 
